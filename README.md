@@ -2,7 +2,7 @@
 
 ## Description
 
-The Note Taker is a quick easy way to write, save and delete a note file through the browser.
+The Note Taker is a simple way to write, save and delete a note file through the browser.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ The Note Taker is a quick easy way to write, save and delete a note file through
 
 ## Usage
 
-Deployed Website: HERE!
+Deployed Website: https://note-taker-appl.herokuapp.com
 
 Write a note, save with floppy disk icon, write new notes with the pen icon, and delete with the trash can icon.
 
@@ -32,5 +32,5 @@ Please make sure to update tests as appropriate.
 
 ![picture of developer](https://avatars3.githubusercontent.com/u/60660512?v=4)
 
-Mónica Polanco Fabían
+Mónica Polanco Fabían | 
 Email: mpolan16@g.holycross.edu
